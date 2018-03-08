@@ -19,11 +19,7 @@ nav {
   margin-bottom: 10px;
 }
 
-article {
-  margin-bottom: 10px;
-}
-
-article:last-child {
+p:last-child {
   margin-bottom: 0;
 }
 
