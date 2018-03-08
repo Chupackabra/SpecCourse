@@ -6,6 +6,31 @@
   text-align: right;
 }
 
+main {
+  display: block;
+  margin: 15px auto;
+  padding: 15px;
+  width: 90%;
+  border: 2px solid #eee;
+}
+
+nav {
+  display: block;
+  margin-bottom: 10px;
+}
+
+article {
+  margin-bottom: 10px;
+}
+
+article:last-child {
+  margin-bottom: 0;
+}
+
 hr {
   width: 90%;
+}
+
+address {
+  display: inline;
 }
